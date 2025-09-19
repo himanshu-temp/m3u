@@ -158,7 +158,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd?__hdne
 
 #EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Jiostar", Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5iCpcM6kdMSRrHiucaTXZA","kid":"lFfrkBKUVvqOqV4QukrFHg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
+#EXTHTTP:{"cookie":"__hdnea__=st=1758241818~exp=1758328218~acl=/*~hmac=2ec24ac21b9b5a9fb0f7a90bea2791dbd1f813e6e684d7a3376169d2269a28df"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?__hdnea__=st=1758241818~exp=1758328218~acl=/*~hmac=2ec24ac21b9b5a9fb0f7a90bea2791dbd1f813e6e684d7a3376169d2269a28df&xxx=%7Ccookie=__hdnea__=st=1758241818~exp=1758328218~acl=/*~hmac=2ec24ac21b9b5a9fb0f7a90bea2791dbd1f813e6e684d7a3376169d2269a28df
 
