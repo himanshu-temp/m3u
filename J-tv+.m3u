@@ -156,6 +156,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd?__hdne
 #EXTHTTP:{"cookie":"__hdnea__=st=1758241818~exp=1758328218~acl=/*~hmac=2ec24ac21b9b5a9fb0f7a90bea2791dbd1f813e6e684d7a3376169d2269a28df"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd?__hdnea__=st=1758241818~exp=1758328218~acl=/*~hmac=2ec24ac21b9b5a9fb0f7a90bea2791dbd1f813e6e684d7a3376169d2269a28df&xxx=%7Ccookie=__hdnea__=st=1758241818~exp=1758328218~acl=/*~hmac=2ec24ac21b9b5a9fb0f7a90bea2791dbd1f813e6e684d7a3376169d2269a28df
 
+#EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Jiostar", Star Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5iCpcM6kdMSRrHiucaTXZA","kid":"lFfrkBKUVvqOqV4QukrFHg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?__hdnea__=st=1758241818~exp=1758328218~acl=/*~hmac=2ec24ac21b9b5a9fb0f7a90bea2791dbd1f813e6e684d7a3376169d2269a28df&xxx=%7Ccookie=__hdnea__=st=1758241818~exp=1758328218~acl=/*~hmac=2ec24ac21b9b5a9fb0f7a90bea2791dbd1f813e6e684d7a3376169d2269a28df
+
 #EXTINF:-1 tvg-id="173" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609ace1518f15ee2bcee407f5e435fed:533464a6d57d3e40b61b8fa8c4fe6627
