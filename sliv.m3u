@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="SONY SAB HD.in" tvg-name="Sony Sab HD" group-title="Entertainment" tvg-logo="https://i.postimg.cc/LhKxf97t/sonysabhd.webp",Sony Sab HD
 https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1759440600~acl=/*~id=33070080328846815595730808034901~hmac=82cb2ff1f169bf18db39e533034e2f2141f6eb42470ead12adc47b32bdd8287b
 
-#EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",(Sony) SET HD
+#EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1759440600~acl=/*~id=33070080328846815595730808034901~hmac=82cb2ff1f169bf18db39e533034e2f2141f6eb42470ead12adc47b32bdd8287b
 
 #EXTINF:-1 tvg-id="Sony Pal.in" tvg-name="Sony Pal" group-title="Entertainment" tvg-logo="https://i.postimg.cc/hjYyDb13/sonypal.webp",Sony Pal
