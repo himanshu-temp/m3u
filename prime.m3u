@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.88b1aafe-8ef7-4656-8b70-107c1ba1c47d/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="(Amazon)",India vs Pakistan (Hindi)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ce2e7d0af813fd26c6fe0b59201ced5:1416f69da90f62735a6521aae461dd74
+https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/jr0zvtazlv/out/v1/6bae9634f7594a738530656284177423/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.88b1aafe-8ef7-4656-8b70-107c1ba1c47d/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="(Amazon)",India vs Pakistan (English)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51d0a028b213b7df472b5f39dc15a8f:bc00a08336fa155814a2e7f47cd42a03
+https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/nood5rxnxx/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.88b1aafe-8ef7-4656-8b70-107c1ba1c47d/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="(Amazon)",India vs Pakistan (English)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cdf68fd8065a7d24042425180afc3f8:7432fe555db06e54ef11a7dbd41e2888
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z4fzqchcb9/out/v1/707fd829f17c40838944467dffda1b01/cenc.mpd
