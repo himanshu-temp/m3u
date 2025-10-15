@@ -2,10 +2,5 @@
 # Join Telegram @ https://t.me/cloudply
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.88b1aafe-8ef7-4656-8b70-107c1ba1c47d/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="(Amazon)",PAK VS AUS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7aaa1f44a9ccee3214ddb3bebca3481:b0eb4cde9db8cdbd04c97ab9e36fa5f1
-https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ouahwaki9k/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8TFLDPp/fallback_sonyliv_logo.png",Sony Liv (24x7)
+https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
