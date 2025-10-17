@@ -4,20 +4,20 @@
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
-#EXTINF:-1 tvg-id="zee-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-logo="https://i.postimg.cc/rw90jKBZ/Entertainment-logo.webp" group-title="Entertainment",Zee TV SD
+#EXTINF:-1 tvg-id="zee-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-title="Backup",Zee TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
-#EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-logo="https://i.postimg.cc/rw90jKBZ/Entertainment-logo.webp" group-title="Entertainment",And TV SD
+#EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Backup",And TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
-#EXTINF:-1 tvg-id="zee-cinema-hd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-logo="https://i.postimg.cc/W4bDHsjN/Movies-logo.webp" group-title="Movies",Zee Cinema HD
+#EXTINF:-1 tvg-id="zee-cinema-hd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Backup",Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
-#EXTINF:-1 tvg-id="and-pictures-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-logo="https://i.postimg.cc/W4bDHsjN/Movies-logo.webp" group-title="Movies",And Pictures SD
+#EXTINF:-1 tvg-id="and-pictures-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="Backup",And Pictures SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
