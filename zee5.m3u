@@ -34,6 +34,10 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8?hdntl=e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8?hdntl=exp=1760963698~acl=%2fcmaf%2flive%2f2105503%2fAAJTAKHDNEWSELE%2f*~data=hdntl,non-ssai_bfb04a9c-529b-472c-a952-6991aa503d90~hmac=8723ceece38f0fbe48b550e1f3adc524d71d2e3067412772919b325778bedf23
 
+#EXTINF:-1 tvg-id="0-9-bigganga" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",Zee Anmol Cinema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/master.m3u8?hdntl=exp=1760963698~acl=%2fcmaf%2flive%2f2105503%2fAAJTAKHDNEWSELE%2f*~data=hdntl,non-ssai_bfb04a9c-529b-472c-a952-6991aa503d90~hmac=8723ceece38f0fbe48b550e1f3adc524d71d2e3067412772919b325778bedf23
+
 #EXTINF:-1 tvg-id="0-9-zeeclassic" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8?hdntl=exp=1760963698~acl=%2fcmaf%2flive%2f2105503%2fAAJTAKHDNEWSELE%2f*~data=hdntl,non-ssai_bfb04a9c-529b-472c-a952-6991aa503d90~hmac=8723ceece38f0fbe48b550e1f3adc524d71d2e3067412772919b325778bedf23
