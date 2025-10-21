@@ -1,0 +1,132 @@
+# Pushed and updated by CloudPlay
+# Join Telegram @ https://t.me/cloudply
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_59_10-AM-185x278.png", Runn Thrillers
+https://f15f7fbdcd084ff3abb9dc148b69d8b4.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNTHR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_10_38-AM-185x278.png", Runn Action
+https://d75f61259af04d9ea002d5429c934854.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNACT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_39_08-AM-1-185x278.png", doraemon 24x7
+https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_42_47-AM-1-185x278.png", Oggy and the Cockroaches 24x7
+https://live20.bozztv.com/giatvplayout7/giatv-210728/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_29_41-AM-1-185x278.png", Bollywood Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209612/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-14-2025-04_31_25-PM-200x300.png", show box
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-03_57_38-PM-1-200x300.png", Food xp
+https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-03_53_45-PM-1-200x300.png", wild flix
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-03_44_00-PM-1-200x300.png", crime of House
+https://cc-y2z89muounal4.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y2z89muounal4/IQJW/WBD/HouseOfCrime_IN/HouseOfCrime_IN.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-03_42_12-PM-1-200x300.png", Crime Talk
+https://amg01448-amg01448c19-samsung-in-4352.playouts.now.amagi.tv/playlist/amg01448-samsungindia-crimetak-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-02_40_55-PM-1-200x300.png", Foodie HUB
+https://cc-oq5ndvigrlkaa.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oq5ndvigrlkaa/IQJW/WBD/FoodieHub_IN/FoodieHub_IN.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-02_44_28-PM-1-200x300.png", Cook and Bake
+https://cc-swbj49v56imaw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/OTM/OTM_Cooking-SCTE_SAMSUNG/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-02_07_44-PM-1-200x300.png", Kido Matix
+https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-01_56_50-PM-1-200x300.png", Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-01_43_03-PM-1-200x300.png", Hollywood Desi
+https://cc-u6hadnoh0u6td.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u6hadnoh0u6td/OTM/OTM_HollywoodActionHindi-SCTE_SAMSUNG/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-01_58_56-PM-1-200x300.png", South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-02_39_02-PM-1-200x300.png", The Movie Club (1)
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-02_39_02-PM-1-200x300.png", The Movie Club (2)
+https://pb-dkdpz5so0aqqr.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/TMC_IN.m3u8?ads.cdn=ak&pb_type=pb-dkdpz5so0aqqr_akamai
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-23-2025-10_03_12-AM-1-200x300.png", TV Asia (1)
+https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-16-2025-10_07_13-AM-1-200x300.png", The Lallantop
+https://cc-15xwgrsji2vbf.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-15xwgrsji2vbf/vid/lallantop/lallantop_rel_master.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-05_07_03-PM-1-200x300.png", M Tunes HD
+https://ca1.buximedia.com/itv/indian/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2023/08/ChatGPT-Image-Sep-4-2025-08_21_25-AM-1-200x300.png", Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-4-2025-08_31_30-AM-1-200x300.png", History TV18 HD
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-28-2025-06_20_32-PM-1-200x300.png", Manoranjan Movies
+https://cdn-2.pishow.tv/live/228/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-28-2025-06_16_25-PM-1-200x300.png", Manoranjan TV
+https://cdn-1.pishow.tv/live/1013/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-3-2025-10_18_56-AM-200x300.jpg", Z Bollymovies
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-7-2025-12_42_53-PM-200x300.png", Superfine Films
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-11_29_16-AM-200x300.png", Terribly Tiny Tales (1)
+https://playout.runn.tv/playout/v1/stream/p_tttflm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-11_29_16-AM-200x300.png", Terribly Tiny Tales (2)
+https://1533611984fa4f9da3ccd596ddcc0779.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/tttflm-airtel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-11_10_53-AM-200x300.png", NH BollyGold
+https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-11_05_26-AM-200x300.png", NH BollyRaga
+https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_21_24-AM-200x300.png", Pocket Films
+https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_00_02-AM-200x300.png", Runn Short Films
+https://playout.runn.tv/playout/v1/stream/p_runshf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_15_50-AM-200x300.png", Cineshorts Premiere
+https://playout.runn.tv/playout/v1/stream/p_cinshf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_05_06-AM-200x300.png", NH BollyFlix (1)
+https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_05_06-AM-200x300.png", NH BollyFlix (2)
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+
+#EXTINF:-1 tvg-logo="Star-Plus-hd", Star Plus HD
+https://tvsen7.aynaott.com/sphdbd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/05/ChatGPT-Image-May-24-2025-05_22_38-PM-200x300.png", Dhamaka Movies
+https://cdn-1.pishow.tv/live/235/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-10_01_52-AM-200x300.png", Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/01/ChatGPT-Image-Apr-14-2025-03_01_57-PM-200x300.png", Comedy Tadka
+https://streams2.sofast.tv/ptnr-yupptv/title-Comedy_Tadka_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0abe00bb-b6f3-4dcd-bdf6-12e74e08216c/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2020/01/ChatGPT-Image-Jul-24-2025-03_46_28-PM-200x300.png", And TV HD
+https://amg01117-amg01117c1-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01117-amg01117c1-amgplt0002/92aebbcf-ae52-11f0-bf8d-ba7b61591d25/29/640x360_1020800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-16-2025-09_52_15-AM-1-200x300.png", Atrangii
+https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-1-2025-08_57_00-AM-200x300.png", Chana Jor
+https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/main.m3u8
