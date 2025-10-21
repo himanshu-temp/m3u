@@ -136,30 +136,30 @@ https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d7
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec087eb4cd899e1a068083608f0aa3f6:f36cd5dddd56ca76246a62b7b02148c9
-#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-09_21_49-AM-1-185x278.png" group-title="Live",PAK kids hd zone
+#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-09_21_49-AM-1-185x278.png", PAK kids hd zone
 https://live3.shoq.com.pk/live/eds/Kids_Zone_Plus/DASH/Kids_Zone_Plus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ebaeb181f20ef45689a3b306545792c:41ff280dc2d57eaf290bc588d821bb35
-#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-10_21_50-PM-1-185x278.png" group-title="Live",8XM
+#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-10_21_50-PM-1-185x278.png", 8XM
 https://live3.shoq.com.pk/live/eds/8_XM/DASH/8_XM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=034c919e34f1de07c325a7b23ad451a0:cf88732938381b02d3fbfa09de6860ae
-#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-09_29_56-AM-1-185x278.png" group-title="Live",minimax
+#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-09_29_56-AM-1-185x278.png", minimax
 https://live3.shoq.com.pk/live/eds/Minimax/DASH/Minimax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eefc4c6db6d961885314bb5c58fd226b:da646d01cc7a852b093854299dbc7b87
-#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-19-2025-05_30_03-PM-200x300.png" group-title="Live",Filmax
+#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-19-2025-05_30_03-PM-200x300.png", Filmax
 https://live2.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
-#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2024/12/ChatGPT-Image-Apr-14-2025-03_03_28-PM-200x300.png" group-title="Live",Shorts TV Active
+#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2024/12/ChatGPT-Image-Apr-14-2025-03_03_28-PM-200x300.png", Shorts TV Active
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/main.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
-#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2024/12/ChatGPT-Image-Apr-14-2025-03_05_05-PM-200x300.png" group-title="Live",Korean Drama Active
+#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2024/12/ChatGPT-Image-Apr-14-2025-03_05_05-PM-200x300.png", Korean Drama Active
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/main.mpd
