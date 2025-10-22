@@ -1,0 +1,8 @@
+# Pushed and updated by CloudPlay
+# Join Telegram @ https://t.me/cloudply
+
+#EXTM3U 
+#EXTINF:-1 tvg-id="Dangal.in" tvg-name="Dangal" tvg-logo="https://i.postimg.cc/JzJW9tML/dangal.webp" group-title="Entertainment",Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Dangal 2.in" tvg-name="Dangal 2" tvg-logo="https://i.postimg.cc/DzP3wDSp/dangal2.webp" group-title="Entertainment",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
