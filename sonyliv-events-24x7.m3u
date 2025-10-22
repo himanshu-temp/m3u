@@ -13,15 +13,3 @@ https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
 https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Taarak Mehta Ka Ooltah Chashmah" group-title="Entertainment" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/bolt_assets/landscape_thumb/1760480819531_1760463937929343_TMKOC_Channel_14oct_landscape_thumb.jpg",Tmkoc (Taarak Mehta Ka Ooltah Chashmah) (24x7)-2
 https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
-
-# Indian Idol
-#EXTINF:-1 tvg-id="1090492547" tvg-name="Indian Idol" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010357/1760762414730591_ii25_18oct_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality, Music",Indian Idol (1)
-https://dai.google.com/linear/hls/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
-#EXTINF:-1 tvg-id="1090492547" tvg-name="Indian Idol" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010357/1760762414730591_ii25_18oct_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality, Music",Indian Idol (2)
-https://pubads.g.doubleclick.net/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
-
-# India's Got Talent
-#EXTINF:-1 tvg-id="1090491643" tvg-name="India's Got Talent" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009943/1759813037535349_IGTS11_simulcast_7OCT_Landscape_Thumb_re1.jpg" tvg-language="Hindi" group-title="Reality",India’s Got Talent (1)
-https://dai.google.com/linear/hls/event/_P6WBA4YTomLa7Aoliytog/master.m3u8
-#EXTINF:-1 tvg-id="1090491643" tvg-name="India's Got Talent" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009943/1759813037535349_IGTS11_simulcast_7OCT_Landscape_Thumb_re1.jpg" tvg-language="Hindi" group-title="Reality",India’s Got Talent (2)
-https://pubads.g.doubleclick.net/ssai/event/_P6WBA4YTomLa7Aoliytog/master.m3u8
