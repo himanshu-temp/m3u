@@ -9,7 +9,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
-#EXTINF:-1 tvg-id="zee-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-title="Backup",Zee TV HD
+#EXTINF:-1 tvg-id="zee-tv-sd" tvg-logo="https://img.media.jio.com/tvpimages/66/3/300378_1750319244582_l_medium.jpg" group-title="Backup",Zee TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
