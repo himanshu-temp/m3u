@@ -2,7 +2,7 @@
 # Join Telegram @ https://t.me/cloudply
 
 <br />
-<b>Warning</b>:  file_get_contents(https://raw.githubusercontent.com/alex8875/m3u/main/z5.m3u): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+<b>Warning</b>:  file_get_contents(https://raw.githubusercontent.com/alex8875/m3u/main/z5.m3u): Failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
  in <b>/var/task/user/api/zee/zee5-worldwide/playlist.php</b> on line <b>7</b><br />
 <br />
 <b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /var/task/user/api/zee/zee5-worldwide/playlist.php:7) in <b>/var/task/user/api/zee/zee5-worldwide/playlist.php</b> on line <b>9</b><br />
