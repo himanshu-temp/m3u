@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ts63" group-title="Entertainment" tvg-logo="http://192.168.1.2:5350/jtvimage/Zee_TV_HD.png",Zee TV HD
+http://192.168.1.2:8080/Zee5/index.php?id=0-9-zeetvhd
+#EXTINF:-1 tvg-id="ts40" group-title="Entertainment" tvg-logo="http://192.168.1.2:5350/jtvimage/And_TV_HD.png",&TV HD
+http://192.168.1.2:8080/Zee5/index.php?id=0-9-tvhd_0
+#EXTINF:-1 tvg-id="ts503" group-title="Movies" tvg-logo="http://192.168.1.2:5350/jtvimage/Zee_Cinema_HD.png",Zee Cinema HD
+http://192.168.1.2:8080/Zee5/index.php?id=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="ts267" group-title="Movies" tvg-logo="http://192.168.1.2:5350/jtvimage/And_Pictures_HD.png",&Pictures HD
+http://192.168.1.2:8080/Zee5/index.php?id=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="ts1183" group-title="Movies" tvg-logo="http://192.168.1.2:5350/jtvimage/And_Xplore_HD.png",&xplorHD
+http://192.168.1.2:8080/Zee5/index.php?id=0-9-209
