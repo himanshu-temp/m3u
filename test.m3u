@@ -1,6 +1,0 @@
-#EXTINF:-1 tvg-id="63" tvg-name="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Entertainment",Zee TV HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000065|Content-Type=application/octet-stream|Origin=https://watch.tataplay.com|Referer=https://watch.tataplay.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)|R{SSM}|
-https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/Manifest.mpd
