@@ -679,7 +679,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Jaya_Max_MOB/WDVLive/index.mpd?__hdnea__=
 #KODIPROP:inputstream.adaptive.license_key=94d31d976768554b892f7037db09e0c9:08c5154b6cdcb6e0fc99d9d4e6298cb3
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 #EXTHTTP:{"cookie":"__hdnea__=st=1766315257~exp=1766401657~acl=/*~hmac=622bd1fdd8cb9f6f496f89309dd243b367209e43d1dde502eef76884902f13a0"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1766315257~exp=1766401657~acl=/*~hmac=622bd1fdd8cb9f6f496f89309dd243b367209e43d1dde502eef76884902f13a0&xxx=%7Ccookie=__hdnea__=st=1766315257~exp=1766401657~acl=/*~hmac=622bd1fdd8cb9f6f496f89309dd243b367209e43d1dde502eef76884902f13a0
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsTamilHD_BTS/output/index.mpd?__hdnea__=st=1766315257~exp=1766401657~acl=/*~hmac=622bd1fdd8cb9f6f496f89309dd243b367209e43d1dde502eef76884902f13a0&xxx=%7Ccookie=__hdnea__=st=1766315257~exp=1766401657~acl=/*~hmac=622bd1fdd8cb9f6f496f89309dd243b367209e43d1dde502eef76884902f13a0
 
 #EXTINF:-1 tvg-id="440" group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png",9X Jalwa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
