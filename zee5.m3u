@@ -54,8 +54,8 @@ https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/And-Flix-HD/index-connected
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1767836689~acl=%2f*~id=13b7fafc-033b-45da-918e-49a508638deb~data=hdntl~hmac=7191a4cd630b15d33aa7969cfc096ba75ed2af6688ad64a4ffe9464448002953
 
-#EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://i.postimg.cc/c1fFzsM4/aaj-tak-hd.jpg",Aaj Tak HD
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1767836689~acl=%2f*~id=13b7fafc-033b-45da-918e-49a508638deb~data=hdntl~hmac=7191a4cd630b15d33aa7969cfc096ba75ed2af6688ad64a4ffe9464448002953
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://i.postimg.cc/c1fFzsM4/aaj-tak-hd.jpg",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8?hdntl=exp=1767836689~acl=%2f*~id=13b7fafc-033b-45da-918e-49a508638deb~data=hdntl~hmac=7191a4cd630b15d33aa7969cfc096ba75ed2af6688ad64a4ffe9464448002953
 
 #EXTINF:-1 tvg-id="0-9-zeenews" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_374,h_374,c_fill,f_webp,q_auto:eco/resources/0-9-zeenews/square/374x374d88683bb81884c859489678df655b7e5",Zee News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
